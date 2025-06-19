@@ -1,7 +1,12 @@
 {
-  "name": "portfolio",
+  "name": "@kashifakhan1996/kashifa-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "description": "Kashifa Khan's Portfolio Website",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashifakhan1996/Kashifa-Portfolio.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,5 +29,8 @@
     "eslint-config-next": "15.3.4",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

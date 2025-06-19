@@ -89,7 +89,7 @@ export default function Portfolio() {
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">Education</h2>
         <ul className="list-disc pl-5">
-          <li>PG Diploma in AI & ML, IIIT Bangalore (2022–2023)</li>
+          <li>PG Diploma in AI & ML, IIIT Bangalore (2023–2025)</li>
           <li>B.Tech in Information Technology, UPTU (2013–2017)</li>
         </ul>
       </section>
